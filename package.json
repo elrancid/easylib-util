@@ -2,10 +2,10 @@
   "name": "@easylib/util",
   "version": "11.0.0",
   "peerDependencies": {
-    "@angular/common": "^11.0.6",
-    "@angular/core": "^11.0.6",
-    "moment": "^2.x",
-    "lodash-es": "^4.x"
+    "@angular/common": "~11.0.5",
+    "@angular/core": "~11.0.5",
+    "moment": "^2.0.0",
+    "lodash-es": "^4.0.0"
   },
   "dependencies": {
     "tslib": "^2.0.0"
