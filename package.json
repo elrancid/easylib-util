@@ -1,0 +1,21 @@
+{
+  "name": "@easylib/util",
+  "version": "11.0.0",
+  "peerDependencies": {
+    "@angular/common": "^11.0.6",
+    "@angular/core": "^11.0.6",
+    "moment": "^2.x",
+    "lodash-es": "^4.x"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  },
+  "main": "bundles/easylib-util.umd.js",
+  "module": "fesm2015/easylib-util.js",
+  "es2015": "fesm2015/easylib-util.js",
+  "esm2015": "esm2015/easylib-util.js",
+  "fesm2015": "fesm2015/easylib-util.js",
+  "typings": "easylib-util.d.ts",
+  "metadata": "easylib-util.metadata.json",
+  "sideEffects": false
+}
